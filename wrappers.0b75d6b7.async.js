@@ -1,0 +1,1 @@
+(self["webpackChunk"]=self["webpackChunk"]||[]).push([[275],{77954:function(n,e,s){"use strict";s.r(e);var i=s(51615),r=s(66119),t=s(85893);function a(){var n=(0,r.ej)("foxpsd-saas-token");return n?{isLogin:!0}:{isLogin:!1}}e["default"]=n=>{var e=a(),s=e.isLogin;return s?(0,t.jsx)(t.Fragment,{children:n.children}):(0,t.jsx)(i.l_,{to:"/login"})}}}]);

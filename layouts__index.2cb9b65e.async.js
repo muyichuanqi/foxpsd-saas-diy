@@ -1,0 +1,1 @@
+(self["webpackChunk"]=self["webpackChunk"]||[]).push([[717],{39976:function(e,r,a){"use strict";a.r(r),a.d(r,{default:function(){return t}});var n=a(9658),s=a(66119),u=a(85893);function t(e){var r=e.children,a=(0,n.I0)(),t=(0,s.ej)("foxpsd-saas-user");return t&&a({type:"layout/save",payload:{user:JSON.parse(t)}}),(0,u.jsx)(u.Fragment,{children:r})}}}]);
